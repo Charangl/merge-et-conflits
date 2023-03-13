@@ -1,3 +1,3 @@
-# merge-et-conflits
+LOCAL
 
 Je n'aime pas les conflits !

@@ -1,3 +1,3 @@
-# merge-et-conflits
+REMOTE
 
 Je n'aime pas les conflits !
